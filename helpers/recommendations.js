@@ -27,12 +27,12 @@ const recommendations = [
     {
         "name": "Saturday",
         "number": 6,
-        "foods": ["Fish", "Steak"]
+        "foods": ["Try a steak at home 🥩", "Seafood is a Saturday classic 🦞", "Just get the first nearby restaurant"]
     },
     {
         "name": "Sunday",
         "number": 7,
-        "foods": ["Fish", "Steak"]
+        "foods": ["Breakfast and Lunch!", "Nona italian pasta", "Roasted chicken"]
     }
 ]
 
